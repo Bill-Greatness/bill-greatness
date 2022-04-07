@@ -1,10 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+Glad you've found this repo, I come almost everyday.
 
-<!--
-**Bill-Greatness/bill-greatness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## About Me ? 
 - 🔭 I’m currently working on Nothing!
 - 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript, React, Node and Life😄
 - 📫 How to reach me: [Get in touch](https://bill-greatness.github.io)
 - ⚡ Fun fact: Don't take life that much serious
--->
+
