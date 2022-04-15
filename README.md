@@ -1,5 +1,5 @@
 # Hi there 👋
-Glad you've found this repo, I come almost everyday.
+Glad you've found this repo, I come here, almost everyday!
 
 ## About Me ? 
 - 🔭 I’m currently working on Nothing!
